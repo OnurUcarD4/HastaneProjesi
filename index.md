@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+Hastane Otomasyon Projesi
 
-You can use the [editor on GitHub](https://github.com/OnurUcarD4/HastaneProjesi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Başlangıç projelerimden biri olan hastane otomasyon projem. Örnek bir hastane için yapılmış olup çeşitli bugları mevcut olabilir. DB üzerinden aldığı bilgileri hasta,sekreter ve doktor olmak üzere 3 farklı panele aktaran bir projedir.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hasta Paneli
 
-### Markdown
+Hasta paneline girmeden önce TC numaranız ve şifreniz ile giriş yapmanız gerekmektedir. Hasta panelinde branşlara göre doktorları görebilir ve randevu alabilirsiniz.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Diğer projelerim için [GitHub hesabıma gidebilirsiniz.](https://github.com/OnurUcarD4).
 
-# Header 1
-## Header 2
-### Header 3
+### Sekreter Paneli
 
-- Bulleted
-- List
+Sekreter paneli sistemdeki en yetkili paneldir. Doktorlar için duyuru oluşturabilir ve görünteleyebilir, manuel bir şekilde randevu ekleyebilir ve görüntüleyebilir,branş ekleyebilir ve görüntüleyebilir, doktor bilgilerini güncelleyip yeni doktor ekleyebilme kapasitesine sahip bir paneldir.
 
-1. Numbered
-2. List
+### Doktor Paneli
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OnurUcarD4/HastaneProjesi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sekreterin belirlediği randevu saatlerine başvuran hastanın olup olmadığını bakıp hastanın şikayetini görüntüleyebilme kapasitesine sahip paneldir. Sekreterin yayınladığı duyurular da bu panelde gözükür.
