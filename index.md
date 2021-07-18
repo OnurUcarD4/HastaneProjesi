@@ -1,4 +1,4 @@
-Hastane Otomasyon Projesi
+### Hastane Otomasyon Projesi
 
 Başlangıç projelerimden biri olan hastane otomasyon projem. Örnek bir hastane için yapılmış olup çeşitli bugları mevcut olabilir. DB üzerinden aldığı bilgileri hasta,sekreter ve doktor olmak üzere 3 farklı panele aktaran bir projedir.
 
@@ -7,7 +7,7 @@ Başlangıç projelerimden biri olan hastane otomasyon projem. Örnek bir hastan
 Hasta paneline girmeden önce TC numaranız ve şifreniz ile giriş yapmanız gerekmektedir. Hasta panelinde branşlara göre doktorları görebilir ve randevu alabilirsiniz.
 
 
-Diğer projelerim için [GitHub hesabıma gidebilirsiniz.](https://github.com/OnurUcarD4).
+Diğer projelerim için [GitHub hesabıma gidebilirsiniz.](https://github.com/OnurUcarD4)
 
 ### Sekreter Paneli
 
