@@ -1,0 +1,25 @@
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe.config
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.exe
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\bin\Debug\HastaneProjesi.pdb
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.AssemblyReference.cache
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Properties.Resources.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.GenerateResource.cache
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.CoreCompileInputs.cache
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.exe
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.pdb
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.FormUyeOl.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Girisler.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.HastaGiris.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\bin\Debug\MetroSet UI.dll
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.BilgiDuzenle.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.DoktorBilgiDuzenle.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.DoktorGiris.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.DoktorPaneli.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Duyurular.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.HastaDetay.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.SekreterGiris.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.SekreterPaneli.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.csproj.CopyComplete
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.Brans.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.DoktorPaneliSekreter.resources
+C:\Users\onur\source\repos\HastaneProjesi\HastaneProjesi\obj\Debug\HastaneProjesi.RandevuListesi.resources
