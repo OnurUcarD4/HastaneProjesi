@@ -1,6 +1,6 @@
 ### Hastane Otomasyon Projesi
 
-Başlangıç projelerimden biri olan hastane otomasyon projem. Örnek bir hastane için yapılmış olup çeşitli bugları mevcut olabilir. DB üzerinden aldığı bilgileri hasta,sekreter ve doktor olmak üzere 3 farklı panele aktaran bir projedir.
+Başlangıç projelerimden biri olan hastane otomasyon projem. Örnek bir hastane için yapılmış olup çeşitli bugları mevcut olabilir. 6 DB üzerinden aldığı bilgileri hasta,sekreter ve doktor olmak üzere 3 farklı panele aktaran bir projedir.
 
 ### Hasta Paneli
 
